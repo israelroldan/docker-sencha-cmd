@@ -1,8 +1,9 @@
 # Supported tags and respective `Dockerfile` links
 
-- [`6.1.3.42`](https://github.com/israelroldan/docker-sencha-cmd/blob/v6.1.3.42/Dockerfile), [`6.1.3`](https://github.com/israelroldan/docker-sencha-cmd/blob/v6.1.3.42/Dockerfile), [`6.1`](https://github.com/israelroldan/docker-sencha-cmd/blob/v6.1.3.42/Dockerfile), [`latest`](https://github.com/israelroldan/docker-sencha-cmd/blob/v6.1.3.42/Dockerfile) [_(v6.1.3.42/Dockerfile)_](https://github.com/israelroldan/docker-sencha-cmd/blob/v6.1.3.42/Dockerfile)
+- [`6.2.0.103`](https://github.com/israelroldan/docker-sencha-cmd/blob/v6.2.0.103/Dockerfile), [`6.2.0`](https://github.com/israelroldan/docker-sencha-cmd/blob/v6.2.0.103/Dockerfile), [`6.2`](https://github.com/israelroldan/docker-sencha-cmd/blob/v6.2.0.103/Dockerfile), [`latest`](https://github.com/israelroldan/docker-sencha-cmd/blob/v6.2.0.103/Dockerfile) [_(v6.2.0.103/Dockerfile)_](https://github.com/israelroldan/docker-sencha-cmd/blob/v6.2.0.103/Dockerfile)
+- [`6.1.3.42`](https://github.com/israelroldan/docker-sencha-cmd/blob/v6.1.3.42/Dockerfile), [`6.1.3`](https://github.com/israelroldan/docker-sencha-cmd/blob/v6.1.3.42/Dockerfile), [`6.1`](https://github.com/israelroldan/docker-sencha-cmd/blob/v6.1.3.42/Dockerfile) [_(v6.1.3.42/Dockerfile)_](https://github.com/israelroldan/docker-sencha-cmd/blob/v6.1.3.42/Dockerfile)
 
-For more information about the changes in this version please check the [release notes](http://cdn.sencha.com/cmd/6.1.3.42/release-notes.html). This image is updated automatically on each generally available release of Sencha Cmd.
+For more information about the changes in this version please check the [release notes](http://cdn.sencha.com/cmd/6.2.0.103/release-notes.html). This image is updated automatically on each generally available release of Sencha Cmd.
 
 # What is Sencha Cmd?
 Sencha Cmd is the cornerstone for building your Sencha Ext JS and Sencha Touch applications. Sencha Cmd provides a full set of lifecycle management features such as scaffolding, code minification, production build generation, and more, to complement your Sencha projects.
@@ -29,7 +30,7 @@ This image is based on [OpenJDK's image](https://hub.docker.com/_/openjdk/) ([`o
  
 - OpenJDK 8 JRE
 - Ruby 2.2
-- Sencha Cmd 6.1.3.42 with Compass extensions
+- Sencha Cmd 6.2.0.103 with Compass extensions
 
 ## Including this image in your `Dockerfile`
 
